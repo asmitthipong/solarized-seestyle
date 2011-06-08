@@ -40,7 +40,7 @@ If that happens, use these values:
   <style id="/Actionscript/Properties"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Actionscript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Actionscript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Actionscript/Operators"
@@ -62,7 +62,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Apache/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Apache/Block directives"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Apache/Singleline Comment"
@@ -72,15 +72,15 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/AppleScript/Commands"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/AppleScript/Variable Assigments"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/AppleScript/Operators"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/AppleScript/Control Statements"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/AppleScript/References"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/AppleScript/Constants"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/AppleScript/Predefined Variables"
@@ -106,7 +106,7 @@ If that happens, use these values:
   <style id="/ASP-HTML/ASP/VBScript Functions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ASP-HTML/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/ASP-HTML/ASP Delimiter"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/ASP-HTML/Numbers"
@@ -126,7 +126,7 @@ If that happens, use these values:
   <style id="/ASP-HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -168,7 +168,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -220,13 +220,13 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Keywords for Variables"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Builtin functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/C/Unix commands"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Characters"
@@ -248,7 +248,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/FunctionRegex"
@@ -270,7 +270,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/C#/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C#/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C#/AutodocComment"
@@ -288,7 +288,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/C++/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C++/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C++/FunctionRegex"
@@ -326,7 +326,7 @@ If that happens, use these values:
   <style id="/CFML/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CFML/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CFML/Functions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CFML/Opening CFML Script Tag"
@@ -356,7 +356,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -380,7 +380,7 @@ If that happens, use these values:
   <style id="/CFML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -420,11 +420,11 @@ If that happens, use these values:
   <style id="/CFML/Query Tags"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/SQL/Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/SQL/Functions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/SQL/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/SQL/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/SQL/FunctionRegex"
@@ -468,7 +468,7 @@ If that happens, use these values:
   <style id="/Codeigniter/PHP4 Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Magic Methods"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Numbers"
@@ -512,7 +512,7 @@ If that happens, use these values:
   <style id="/Codeigniter/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -534,7 +534,7 @@ If that happens, use these values:
   <style id="/Codeigniter/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -562,7 +562,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/CoffeeScript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Characters"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Function"
@@ -588,7 +588,7 @@ If that happens, use these values:
   <style id="/CoffeeScript/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -638,7 +638,7 @@ If that happens, use these values:
   <style id="/Confrerence/Emails and URLs"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Tool Tip"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.CSS">
   <style id="_Default"
@@ -646,7 +646,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -682,7 +682,7 @@ If that happens, use these values:
   <style id="/Django-Template/Context Variables"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Filters"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Double Quoted Strings"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Single Quoted Strings"
@@ -714,7 +714,7 @@ If that happens, use these values:
   <style id="/Django-Template/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -736,7 +736,7 @@ If that happens, use these values:
   <style id="/Django-Template/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -778,11 +778,11 @@ If that happens, use these values:
   <style id="/Ruby/Definitions"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Classes"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Globals"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
@@ -848,7 +848,7 @@ If that happens, use these values:
   <style id="/ERB/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/ERB/CSSComment"
     color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
   <style id="/ERB/CSSRound bracket"
@@ -862,7 +862,7 @@ If that happens, use these values:
   <style id="/ERB/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -914,7 +914,7 @@ If that happens, use these values:
   <style id="/ExpressionEngine/CSS Attributes"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Digits"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Colors"
@@ -930,7 +930,7 @@ If that happens, use these values:
   <style id="/ExpressionEngine/Inline Javascript"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript String"
@@ -968,11 +968,11 @@ If that happens, use these values:
   <style id="/Ruby/Definitions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Classes"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Globals"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
@@ -1036,7 +1036,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -1060,7 +1060,7 @@ If that happens, use these values:
   <style id="/HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -1116,7 +1116,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -1140,7 +1140,7 @@ If that happens, use these values:
   <style id="/HTML-jQuery/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
@@ -1196,7 +1196,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -1220,7 +1220,7 @@ If that happens, use these values:
   <style id="/HTML-MooTools/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
@@ -1260,7 +1260,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Java/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Java/Classes"
     color="#657B83" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Java/Numbers"
@@ -1274,7 +1274,7 @@ If that happens, use these values:
   <style id="/Java/JavadocComment"
     color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
   <style id="/Java/JavadocTags"
-    color="#859900" inverted-color="#859900" font-style="italic" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="italic" font-weight="normal" />
   <style id="/Java/Comment"
     color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
   <style id="/Java/SingleComment"
@@ -1286,7 +1286,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -1312,7 +1312,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
@@ -1346,9 +1346,9 @@ If that happens, use these values:
   <style id="/JSP-HTML/JSP Delimiter"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/JSP-HTML/Java Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/JSP-HTML/Keywords 2"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/JSP-HTML/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/JSP-HTML/FunctionRegex"
@@ -1378,7 +1378,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -1402,7 +1402,7 @@ If that happens, use these values:
   <style id="/HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -1450,13 +1450,13 @@ If that happens, use these values:
   <style id="/LassoScript-HTML/Default Lasso Tags"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Default Lasso Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Dynamic Lasso Member Tags"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Dynamic Lasso Tags/Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Lasso Tag/Type Parameters"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Variables"
@@ -1488,7 +1488,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -1514,7 +1514,7 @@ If that happens, use these values:
   <style id="/LassoScript-HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -1568,7 +1568,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/TeX/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/TeX/Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/TeX/Singleline Comment"
@@ -1582,7 +1582,7 @@ If that happens, use these values:
   <style id="/LESS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/LESS/LESS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/LESS/Mixins"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/LESS/Attribute State"
@@ -1590,7 +1590,7 @@ If that happens, use these values:
   <style id="/LESS/LESS Attributes"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/LESS/LESS Operators"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/LESS/LESS Digits"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/LESS/LESS Colors"
@@ -1616,7 +1616,7 @@ If that happens, use these values:
   <style id="/C/Special Forms in Lisp"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
@@ -1642,15 +1642,15 @@ If that happens, use these values:
   <style id="/Lua/Literals"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Lua/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Lua/Basic Functions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Lua/Libraries"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Lua/Library Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Lua/MetaTableKeywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Lua/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Lua/Multiline Comment"
@@ -1668,9 +1668,9 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Markdown/Header"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Setext Header"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Italic"
     color="#657B83" inverted-color="#839496" font-style="italic" font-weight="normal" />
   <style id="/Markdown/Bold"
@@ -1678,7 +1678,7 @@ If that happens, use these values:
   <style id="/Markdown/Link Text"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Link URL"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Link ID"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Link ID Ref"
@@ -1688,7 +1688,7 @@ If that happens, use these values:
   <style id="/Markdown/Code Block"
     color="#93A1A1" inverted-color="#586E75" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Horizontal Rules"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Inline Code"
     color="#93A1A1" inverted-color="#586E75" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Items"
@@ -1700,19 +1700,19 @@ If that happens, use these values:
   <style id="/Markdown/List Item Link Text"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Item Link URL"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Item Link ID"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Item Link ID Ref"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Bullets"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Blockquotes"
     color="#657B83" inverted-color="#839496" font-style="italic" font-weight="normal" />
   <style id="/Markdown/Quoted Header"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Quoted Setext Header"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Quoted Italic"
     color="#657B83" inverted-color="#839496" font-style="italic" font-weight="normal" />
   <style id="/Markdown/Quoted Bold"
@@ -1720,7 +1720,7 @@ If that happens, use these values:
   <style id="/Markdown/Quoted Link Text"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link URL"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link ID"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link ID Ref"
@@ -1730,7 +1730,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
@@ -1800,11 +1800,11 @@ If that happens, use these values:
   <style id="/Objective-C/Messages"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Cocoa Classes"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Objective-C Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Memory Management"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Cocoa Functions"
@@ -1814,7 +1814,7 @@ If that happens, use these values:
   <style id="/Objective-C/FunctionRegex"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Cocoa Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Cocoa Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Characters"
@@ -1840,17 +1840,17 @@ If that happens, use these values:
   <style id="/Objective-J/JavaScript Reserved For Future Use Keywords"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/JavaScript Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Objective-J Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Objective-J Directives"
     color="#93A1A1" inverted-color="#586E75" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Objective-J Selector"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Cappuccino Classes"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Cappuccino Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Cappuccino Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Objective-J Imports"
@@ -1870,9 +1870,9 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Characters"
@@ -1894,7 +1894,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Perl/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Perl/Pragmas"
     color="#93A1A1" inverted-color="#586E75" font-style="normal" font-weight="normal" />
   <style id="/Perl/Perl Functions"
@@ -1960,11 +1960,11 @@ If that happens, use these values:
   <style id="/PHP-HTML/PHP4 Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Function and Class Keywords"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Type Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Magic Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Constants"
@@ -1984,7 +1984,7 @@ If that happens, use these values:
   <style id="/PHP-HTML/PHP Comment"
     color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/Docblock Annotations"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/TODO"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="bold" />
   <style id="/PHP-HTML/PHP SingleComment"
@@ -2024,7 +2024,7 @@ If that happens, use these values:
   <style id="/PHP-HTML/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -2046,7 +2046,7 @@ If that happens, use these values:
   <style id="/PHP-HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -2084,7 +2084,7 @@ If that happens, use these values:
   <style id="/PHP-HTML-jQuery/PHP4 Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Magic Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Magic Methods"
@@ -2130,7 +2130,7 @@ If that happens, use these values:
   <style id="/PHP-HTML-jQuery/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -2152,7 +2152,7 @@ If that happens, use these values:
   <style id="/PHP-HTML-jQuery/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
@@ -2190,7 +2190,7 @@ If that happens, use these values:
   <style id="/PHP-MooTools/PHP4 Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Magic Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Magic Methods"
@@ -2236,7 +2236,7 @@ If that happens, use these values:
   <style id="/PHP-MooTools/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -2258,7 +2258,7 @@ If that happens, use these values:
   <style id="/PHP-MooTools/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
@@ -2288,7 +2288,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Prototype/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Prototype/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Prototype/Characters"
@@ -2318,15 +2318,15 @@ If that happens, use these values:
   <style id="/Python/Built-in Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Python/Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Python/Exceptions"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Python/Special Methods"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Python/Built-In Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Python/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Python/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Python/Singleline Comment"
@@ -2352,11 +2352,11 @@ If that happens, use these values:
   <style id="/Ruby/Definitions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Classes"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Globals"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
@@ -2456,7 +2456,7 @@ If that happens, use these values:
   <style id="/Smarty/Variable Modifiers"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Smarty/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Smarty/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Smarty/Strings"
@@ -2470,7 +2470,7 @@ If that happens, use these values:
   <style id="/Smarty/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -2508,7 +2508,7 @@ If that happens, use these values:
   <style id="/CSS/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -2554,11 +2554,11 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/SQL/Types"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/SQL/Functions"
     color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/SQL/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/SQL/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/SQL/FunctionRegex"
@@ -2626,7 +2626,7 @@ If that happens, use these values:
   <style id="/Twig-HTML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -2656,7 +2656,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/Twig-JavaScript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Twig-JavaScript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Twig-JavaScript/Characters"
@@ -2748,7 +2748,7 @@ If that happens, use these values:
   <style id="/WordPress/PHP4 Functions"
     color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Magic Constants"
     color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Magic Methods"
@@ -2794,7 +2794,7 @@ If that happens, use these values:
   <style id="/WordPress/Inside curly brackets"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Attribute state"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
@@ -2816,7 +2816,7 @@ If that happens, use these values:
   <style id="/WordPress/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
@@ -2870,7 +2870,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
   <style id="/YAML/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/YAML/Other keywords"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/YAML/Variables"
@@ -2886,7 +2886,7 @@ If that happens, use these values:
   <style id="/YAML/Script Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+    color="#6bb011" inverted-color="#6bb011" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
     color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
